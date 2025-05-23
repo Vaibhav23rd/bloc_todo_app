@@ -10,14 +10,8 @@ A simple To-Do list application built with Flutter using the BLoC pattern for st
 
 ## Screenshots
 
-### Empty Screen
-<img src="screenshots/empty_screen.jpg" alt="Empty Screen" width="300"/>
-
-### Add Task Dialog
-<img src="screenshots/add_task.jpg" alt="Add Task Dialog" width="300"/>
-
-### Task Screen
-<img src="screenshots/task_screen.jpg" alt="Task Screen" width="300"/>
+### Empty Screen, Add Task Dialog, and Task Screen
+<img src="screenshots/empty_screen.jpg" alt="Empty Screen" width="300"/> <img src="screenshots/add_task.jpg" alt="Add Task Dialog" width="300"/> <img src="screenshots/task_screen.jpg" alt="Task Screen" width="300"/>
 
 ## Getting Started
 
@@ -28,11 +22,11 @@ A simple To-Do list application built with Flutter using the BLoC pattern for st
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/Vaibhav23rd/bloc_todo_app.git
    ```
 2. Navigate to the project directory:
    ```
-   cd <repository-name>
+   cd bloc_todo_app
    ```
 3. Install dependencies:
    ```
