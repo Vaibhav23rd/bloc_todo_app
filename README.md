@@ -11,7 +11,7 @@ A simple To-Do list application built with Flutter using the BLoC pattern for st
 ## Screenshots
 
 ### Empty Screen, Add Task Dialog, and Task Screen
-<img src="screenshots/empty_screen.jpg" alt="Empty Screen" width="300"/> <img src="screenshots/add_task.jpg" alt="Add Task Dialog" width="300"/> <img src="screenshots/task_screen.jpg" alt="Task Screen" width="300"/>
+<img src="screenshots/empty_screen.jpg" alt="Empty Screen" width="250"/> <img src="screenshots/add_task.jpg" alt="Add Task Dialog" width="250"/> <img src="screenshots/task_screen.jpg" alt="Task Screen" width="250"/>
 
 ## Getting Started
 
